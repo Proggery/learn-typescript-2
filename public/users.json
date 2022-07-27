@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Jack Daniels",
+    "age": 150,
+    "city": "New York",
+    "picture": "https://thumbs.dreamstime.com/b/bottle-jack-daniels-london-uk-october-st-tennessee-whiskey-over-plain-white-background-st-october-83003352.jpg"
+  },
+  {
+    "name": "Jim Beam",
+    "age": 20,
+    "city": "San Fransisco",
+    "picture": "https://thumbs.dreamstime.com/b/jim-beam-bourbon-whiskey-gradient-background-owned-global-spirits-wine-has-been-destiled-90580548.jpg"
+  },
+  {
+    "name": "Pálinka",
+    "age": 80,
+    "city": "Budapest",
+    "picture": "https://www.nicepng.com/png/detail/229-2298180_johnnie-walker-black-label-j-walker-johnnie-walker.png"
+  },
+  {
+    "name": "Weissbier",
+    "age": 55,
+    "city": "München",
+    "picture": "https://www.nicepng.com/png/detail/229-2298180_johnnie-walker-black-label-j-walker-johnnie-walker.png"
+  },
+  {
+    "name": "Unicum",
+    "age": 380,
+    "city": "Budapest",
+    "picture": "https://thumbs.dreamstime.com/b/jim-beam-bourbon-whiskey-gradient-background-owned-global-spirits-wine-has-been-destiled-90580548.jpg"
+  }
+]
